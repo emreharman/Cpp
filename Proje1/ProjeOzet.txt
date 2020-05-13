@@ -1,0 +1,17 @@
+Belli kısıtları olan satır ve sütun değerlerini girince 
+animasyon şeklinde ekrana zarf şekli çizer.
+
+Örnek Cıktı:
+satır:5
+sutun:10
+**********
+*   **   *
+*  *  *  *
+* *    * *
+**********
+
+**********
+* *    * *
+*  *  *  *
+*   **   *
+**********
