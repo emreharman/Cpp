@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\lenovo\source\repos\programlamaya giriş ödev\ödev3\ödev3\source.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lenovo\source\repos\programlamaya giriş ödev\ödev3\ödev3\source.cpp(75): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lenovo\source\repos\programlamaya giriş ödev\ödev3\ödev3\source.cpp(106): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ödev3.vcxproj -> C:\Users\LENOVO\source\repos\Programlamaya Giriş Ödev\Ödev3\Debug\Ödev3.exe

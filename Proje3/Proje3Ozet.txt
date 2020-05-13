@@ -1,0 +1,3 @@
+-> Belirlenen kısıtlara göre sürekli bir sahne ve boyutu sürekli değişen bir şekil
+çizilerek sahnenin en tepesinden zeminine kadar animasyon şeklinde inen ve zemine değdiği
+anda tekrar başa dönerek random değerlerle tekrar çalışan program.
