@@ -1,0 +1,4 @@
+-> Bir okul otomasyon örneğidir.
+-> Menüsünde bulunan işlemleri yapar.
+-> Eklenen öğrencilerin ad ve soyadını projeyle birlikte verilen txt dosyalarından
+rastgele okuyarak belirler.
