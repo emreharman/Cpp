@@ -1,0 +1,4 @@
+-> Matris işlemleri üzerine bir programdır.
+-> Boyutunu kulanıcının belirlediği ve rastgele değerler atayan bir matris oluşturur,
+-> Menüdeki işlemlere göre matris üzerinde istenen işlemleri yaparak yeni matris 
+elde eder.  

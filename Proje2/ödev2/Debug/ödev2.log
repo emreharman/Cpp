@@ -1,0 +1,3 @@
+﻿  b191210049.cpp
+c:\users\lenovo\source\repos\programlamaya giriş ödev\ödev2\ödev2\b191210049.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ödev2.vcxproj -> C:\Users\LENOVO\source\repos\Programlamaya Giriş Ödev\ödev2\Debug\ödev2.exe
