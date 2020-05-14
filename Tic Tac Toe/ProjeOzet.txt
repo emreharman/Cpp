@@ -1,0 +1,2 @@
+-> Console ekranında TicTacToe oyunu tasarımı.
+-> Algoritmasında daha farklı bir yol izlenebilirse yardımınızı beklerim.
